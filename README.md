@@ -12,7 +12,7 @@ I am a dedicated software developer specializing in creating web and mobile solu
 
 🎯 𝐅𝐨𝐜𝐮𝐬 𝐀𝐫𝐞𝐚𝐬: I excel in developing both mobile apps and websites, ensuring they are user-friendly, reliable, and built to high standards.
 
-## You can
+## You can 🙌
 💬 Ask me about: .NET, RESTful APIs, DDD, CQRS, SQL, Software Architecture, Testing, Angular, MicroFrontend
 
 📫 Reach me: Reach out and connect with me on [LinkedIn](https://www.linkedin.com/in/thierry-ahounou)
