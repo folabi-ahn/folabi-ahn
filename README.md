@@ -5,6 +5,9 @@ I am a dedicated software developer specializing in creating web and mobile solu
 ## 𝐒𝐩𝐞𝐜𝐢𝐚𝐥𝐢𝐭𝐢𝐞𝐬 ✅
 
 🛠️ 𝐄𝐱𝐩𝐞𝐫𝐭𝐢𝐬𝐞: Over 9 years of experience in designing and developing successful web and mobile applications.
+
 🚀 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬: Proficient in Angular, Ionic, .NET Framework.
+
 📖 𝐏𝐫𝐢𝐧𝐜𝐢𝐩𝐥𝐞𝐬/𝐏𝐫𝐚𝐜𝐭𝐢𝐜𝐞𝐬: Adherence to Clean Code, strong architectural design, and CQRS and so much more.
+
 🎯 𝐅𝐨𝐜𝐮𝐬 𝐀𝐫𝐞𝐚𝐬: I excel in developing both mobile apps and websites, ensuring they are user-friendly, reliable, and built to high standards.
